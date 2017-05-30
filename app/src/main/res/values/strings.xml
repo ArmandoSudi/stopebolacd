@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Stop Ebola</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- PREVENTIONS -->
+
+    <string name="prevention_one_title">1. Eviter d’aller dans les zones affectées </string>
+    <string name="prevention_one_content">Vu la nocivité et son rythme de propagation, il est fortement recommandé de s’abstenir de voyager dans les régions affectées, dès qu’une épidémie est déclarée.</string>
+
+    <string name="prevention_two_title">2. Se laver les mains très fréquemment </string>
+    <string name="prevention_two_content"> C’est l’une des mesures préventives les plus indiquées. Il faut le faire en utilisant de l’eau et du savon ou encore des produits désinfectants à base d’alcool, là où l’eau et le savon font défaut.</string>
+
+    <string name="prevention_three_title">3. Éviter la viande de brousse </string>
+    <string name="prevention_three_content">Il est établi que le virus est dans la plupart des cas transmis par la viande provenant de la viande de brousse. Il faut donc éviter de consommer ce type de viande dans les pays réputés abriter le virus.</string>
+
+    <string name="prevention_four_title">4. Eviter le contact avec les personnes infectées </string>
+    <string name="prevention_four_content">Cette mesure s’adresse surtout aux familles des personnes déjà touchées ou au personnel médical. Il faut éviter tout contact avec les liquides ou tissus provenant du malade (sang, urine, sperme, sécrétions vaginales, salive, etc.). Les personnes atteintes deviennent très contagieuse au dernier stade de la maladie.</string>
+
+    <string name="prevention_five_title">5.	Mesures pour le personnel soignant</string>
+    <string name="prevention_five_content">Médecins, infirmiers, aides-soignants et équipe de secours doivent porter des tenues de protection adéquates qui permettent une isolation à 100 % du corps (, blouses, masques, gants, protection des yeux, etc). Il faut aussi s’assurer que les malades n’entrent pas en contact avec d’autres personnes</string>
+
+    <string name="prevention_six_title">6. Eviter le contact avec les personnes décédées </string>
+    <string name="prevention_six_content">Les morts du virus restent contagieux. Il faut donc éviter tout contact avec les corps sans vie</string>
+
+    <!-- SYMPTOM -->
+
+    <string name="sym_one">1. Fièvres et maux de tête</string>
+    <string name="sym_two">2. Des douleurs musculaires et Des maux de gorge</string>
+    <string name="sym_three">3. De la faiblesse</string>
+    <string name="sym_four">4. Une Diarrhée</string>
+    <string name="sym_five">5. Une éruption cutanée semblable à celle de la rougeole</string>
+    <string name="sym_six">6. Une atteinte du foie et des reins</string>
+    <string name="sym_seven">7. Des vomissements</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+</resources>
